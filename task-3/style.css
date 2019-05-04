@@ -1,0 +1,42 @@
+body {
+    background-color: #5acfd6;
+    background-image: linear-gradient(to right, #5acfd6, #90d297)
+}
+
+#form {
+    border: 1px solid white;
+    width: 25%;
+    padding: 4% 20% 4% 4%;
+    margin-left: 28%;
+    margin-top: 10%;
+    background-color: #5acfd6;
+    background-image: linear-gradient(to right, #5acfd6, #90d297);
+    border-radius: 8px;
+}
+
+.name, .name1, .name2, .name3 {
+    font-family: 'Montserrat';
+}
+
+.inp1, .inp2, .inp3, .inp4 {
+    width: 150%;
+    padding: 4%;
+    margin-bottom: 6%;
+}
+
+button {
+    margin-top: 10%;
+    padding: 5%;
+    width: 60%;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #43a6bb;
+    border: 1px solid #43a6bb;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.pass{
+    text-align: right;
+}

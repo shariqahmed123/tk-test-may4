@@ -1,0 +1,112 @@
+.btn1 {
+    padding: 1.5%;
+    width: 15%;
+    background-color: #c63928;
+    color: white;
+    border: 1px solid #c63928;
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
+.btn1:hover {
+    background-color: #ed4c4f;
+    color: white;
+    border: 1px solid #ed4c4f;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.btn2 {
+    padding: .9%;
+    width: 8%;
+    background-color: yellow;
+    color: blue;
+    border: 3px solid blue;
+    font-family: 'gugi';
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.btn2:hover {
+    background-color: blue;
+    color: yellow;
+    border: 3px solid blue;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.btn3 {
+    padding: 1%;
+    width: 16%;
+    background-image: linear-gradient(to right, #5ad0d8, #99d28e);
+    background-color: #5ad0d8;
+    border-radius: 20px;
+    color: white;
+    border: 1px solid #5ad0d8;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.btn4 {
+    padding: .5%;
+    width: 10%;
+    background-color: white;
+    color: #6749ea;
+    border: 3px solid #6749ea;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 8px;
+    margin-left: 20px;
+}
+
+.btn4:hover {
+    background-color: #6749ea;
+    color: white;
+    border: 3px solid #6749ea;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.btn5 {
+    padding: 1%;
+    width: 14%;
+    background-color: #f7b132;
+    color: white;
+    border: 3px solid #f6a931;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.btn5:hover {
+    background-color: #f38e31;
+    color: white;
+    border: 3px solid #f38e31;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.btn6 {
+    border: 3px solid #41a6f3;
+    border-radius: 50%;
+    background-color: white;
+    color: #41a6f3;
+    padding: 1%;
+    width: 5%;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.btn6:hover {
+    background-color: #41a6f3;
+    color: white;
+    border: 3px solid #41a6f3;
+    cursor: pointer;
+    transition: .5s;
+}

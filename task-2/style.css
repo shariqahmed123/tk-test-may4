@@ -1,0 +1,27 @@
+body {
+    background-color: #e2e4e5;
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+    color: black;
+    text-shadow: red;
+    font-family: 'Montserrat';
+    font-weight: bolder;
+}
+
+span {
+    font-size: 27px;
+    font-family: 'Satisfy';
+    margin-left: -16%;
+}
+
+.pak, .port, .sri, .tur, .ger, .spa {
+    width: 22%;
+    margin-left: 12%;
+    margin-bottom: 3%;
+    margin-top: 10%;
+}
+
+}
